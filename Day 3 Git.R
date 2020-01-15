@@ -27,3 +27,7 @@ data<- read.csv("compensation.csv")
 # data/ to ignore a specific folder
 #*.pdf to ignore all pdfs
 #*.docx
+
+
+#### How to revert back to previous versions? ####
+
