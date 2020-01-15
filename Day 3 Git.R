@@ -18,10 +18,5 @@
 #https://github.com/LCrete/animated-octo-garbanzo.git
 
 
-
-
-
-
-
 library(tidyverse)
-read.csv()
+data<- read.csv("compensation.csv")
