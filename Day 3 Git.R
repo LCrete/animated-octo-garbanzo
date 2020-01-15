@@ -17,8 +17,13 @@
 #GitHub: webserver that saves everything on the cloud, not only on computer
 #https://github.com/LCrete/animated-octo-garbanzo.git
 
-
+## select script > commit > push (for it to be pushed to GitHub)
 library(tidyverse)
 data<- read.csv("compensation.csv")
 
 #whatever
+
+#### Gitignore = add relevant code at the top of the gitignore script to ignore elements
+# data/ to ignore a specific folder
+#*.pdf to ignore all pdfs
+#*.docx
