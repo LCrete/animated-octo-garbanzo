@@ -30,4 +30,5 @@ data<- read.csv("compensation.csv")
 
 
 #### How to revert back to previous versions? ####
+#help file for git: ohshitgit.com 
 
